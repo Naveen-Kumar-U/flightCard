@@ -1,1 +1,1 @@
-This is custom flight responsive card
+This is a custom flight-responsive card.
